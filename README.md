@@ -2,6 +2,7 @@
 
 ## Project Overview
 We‘re developing our first financial application, a portfolio-analyzer using python and its libraries. 
+![image](https://user-images.githubusercontent.com/107276527/193439980-6c5e067d-1a13-4f53-81e8-18e7854f369f.png)
 
 Ideally, we wanted to use our newly learned skills as well as get experience exploring new python libraries on our own. 
 
@@ -28,7 +29,7 @@ pandas
 hvplot.pandas
 
 ## Usage
-The entire program is built to be modular so that you can change the list tickers=[] to create any portfolio you want, as long as its data is on Yahoo Finance.
+Run the notebook file using Jupyter Lab. The entire program is built to be modular so that you can change the list tickers=[] to create any portfolio you want, as long as its data is on Yahoo Finance.
 Once you choose your tickers and run all a dashboard will open in your internet browser.
 The panel dashboard includes functionality via panel widgets to adjust; tickers displayed, y-axis, and/or x-axis.
 You can also view different plots by clicking on the desired tab. 
